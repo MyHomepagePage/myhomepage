@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BEng (Honours) specialising in Electrical and Computer System Engineering
+  - course: BEng (Honours)  -  specialising in Electrical and Computer System Engineering
     institution: Monash University Clayton, Melbourne, Australia)
     year: 2017-2022
-  - course: BCom majoring in Finance
+  - course: BCom  - majoring in Finance
     institution: Monash University (Clayton, Melbourne, Australia)
     year: 2017-2022
 
